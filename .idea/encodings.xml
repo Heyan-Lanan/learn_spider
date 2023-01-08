@@ -2,5 +2,11 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/day1/douban.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day2/blog.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xpath_/jetbrains.html" charset="UTF-8" />
+    <file url="notebook://C:/learn_spider/xpath_/test1.ipynb" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>
